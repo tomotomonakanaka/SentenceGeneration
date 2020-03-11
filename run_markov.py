@@ -6,8 +6,8 @@ def main():
     print('The Feynman Like Sentence Generator')
     print('***********************************')
     print('Load Model')
-    ThreeGram = MakeNgramDict('feynman_lectures.csv', 3)
-    TwoGram = MakeNgramDict('feynman_lectures.csv', 2)
+    ThreeGram = MakeNgramDict('data/feynman_lectures.csv', 3)
+    TwoGram = MakeNgramDict('data/feynman_lectures.csv', 2)
     for i in range(10):
         while(True):
             word = input('Please Specify The First Word: ')
