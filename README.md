@@ -1,4 +1,6 @@
 # Feynman Like Sentence Generator
+This is the Final Project in the lecture, Physics129L at UCSB. \\
+I make the models that generate the sentences like Feynman Lectures.
 ## Set Up
 ```
 $ pip instal -r requirements.txt
