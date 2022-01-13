@@ -5,9 +5,9 @@ I make the models that generate the sentences like Feynman Lectures.
 ```
 $ pip instal -r requirements.txt
 $ python
-\>>> import nltk
-\>>> nltk.download('punkt')
-\>>> exit()
+>>> import nltk
+>>> nltk.download('punkt')
+>>> exit()
 $ python MakeCSV.py
 ```
 
@@ -45,8 +45,7 @@ Run
 $ python run_LSTM.py
 ```
 It requires long time to train this model, so
-Using GPU is recommended.
-\\
+Using GPU is recommended.  
 The example result is below.
 ```
 ~/SentenceGeneration$ python run_LSTM.py
