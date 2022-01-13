@@ -1,5 +1,5 @@
 # Feynman Like Sentence Generator
-This is the Final Project in the lecture, Physics129L at UCSB. \\
+This is the Final Project in the lecture, Physics129L at UCSB.  
 I make the models that generate the sentences like Feynman Lectures.
 ## Set Up
 ```
@@ -16,8 +16,7 @@ Run
 ```
 $ python run_markov.py
 ```
-When you are asked to type a first word for generating a sentence, you have to write this word in the lower case.
-\\
+When you are asked to type a first word for generating a sentence, you have to write this word in the lower case.  
 The example result is below.
 
 ```
